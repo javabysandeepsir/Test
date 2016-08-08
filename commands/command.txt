@@ -1,0 +1,8 @@
+git init
+git status
+git add --all
+git commit -m "Message"
+git config --global user.name sandeep
+git config --global user.email abc@gmail.com
+git remote add origin https://github.com/javabysandeepsir/Test.git
+git push origin master
